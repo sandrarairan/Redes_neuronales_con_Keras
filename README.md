@@ -1,1 +1,1 @@
-# Redes_neuronales_con_Keras
+# Redes_neuronales_con_Keras - Curso Platzi
